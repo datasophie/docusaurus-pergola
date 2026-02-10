@@ -1,0 +1,14 @@
+version: v1
+
+components:
+- name: web
+  docker:
+    file: Dockerfile
+    platform:
+    - arch: amd64
+    - arch: arm64
+  user: 101
+  ports:
+  - 8080
+  ingresses:
+  - host: docusaurus
