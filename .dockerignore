@@ -1,0 +1,6 @@
+.config
+.npm
+.git
+/site/.docusaurus
+/site/node_modules
+/site/build
