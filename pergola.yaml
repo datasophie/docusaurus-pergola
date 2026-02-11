@@ -12,3 +12,8 @@ components:
   - 8080
   ingresses:
   - host: docusaurus
+  resources:
+    cpu: 20m
+  scaling:
+    min: 2
+    max: 4
