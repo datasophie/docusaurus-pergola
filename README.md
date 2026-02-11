@@ -2,9 +2,9 @@
 
 [Docusaurus](https://docusaurus.io/) is a great framework to build optimized websites, blogs and beautiful documentation sites for your products.
 
-[Pergola](https://docs.pergola.cloud/docs/overview) is a deployment and runtime platform for web and server applications, a high-availability cluster with automatic scaling and failover, fully managed TLS certificates and much more.
+[Pergola](https://docs.pergola.cloud/docs/overview) is a deployment and runtime platform for web and server applications, a high-availability cluster with auto-scaling, failover handling, fully managed TLS certificates and much more.
 
-You can deploy a Docusaurus site on Pergola in a matter of minutes.
+You can deploy your Docusaurus site on Pergola in a matter of minutes, just follow the steps below.
 
 ## Deployment Steps
 
@@ -36,7 +36,9 @@ This repository is for demonstration purposes for how to deploy a Docusaurus app
 
 It is fully prepared and ready to be deployed. If you do not have your own Docusaurus Git repository yet, feel free to deploy this one on Pergola for testing.
 
-These are the ingredients of this repo:
+Here you can see a [Docusaurus deployment in action](https://console.pergola.cloud/pipeline/projects/docusaurus/stages/dev).
+
+### Ingredients
 
 The [Dockerfile](Dockerfile) compiles your Docusaurus app into a portable container image, production ready and served by Nginx.
 
