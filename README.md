@@ -30,8 +30,12 @@ You need a Git repository with your Docusaurus code and:
 Here is a live example:
 https://docusaurus-docusaurus-dev.apps.pergola.cloud/
 
+## Further read
+
 Want to learn more about [Projects](https://docs.pergola.cloud/docs/reference/projects), [Stages](https://docs.pergola.cloud/docs/reference/stages), [Releases](https://docs.pergola.cloud/docs/reference/releases)...?
 Here is the Pergola [documentation](https://docs.pergola.cloud), built with Docusaurus, of course ❤️
+
+And here is [more background](DETAILS.md) about what is going on in this repo.
 
 ## Contributing
 
