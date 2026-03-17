@@ -11,7 +11,7 @@ components:
   ports:
   - 8080
   ingresses:
-  - host: docusaurus
+  - host: demo
   resources:
     cpu: 20m
   scaling:

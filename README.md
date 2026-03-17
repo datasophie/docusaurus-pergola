@@ -11,7 +11,7 @@ You can deploy your Docusaurus site on Pergola in a matter of minutes, just foll
 You need a Git repository with your Docusaurus code and:
 
 * If you do not have a `Dockerfile` in your repo yet, you can copy [from here](Dockerfile) and adapt as needed
-* Add a `pergola.yaml` to your repo's root directory, the Project Manifest that describes your app, which you can copy [from here](pergola.yaml)
+* Add a `pergola.yaml` to your repo's root directory, the Project Manifest that describes your app, which you can also copy [from here](pergola.yaml)
 
 👍 Your app is prepared. Now head over to [Pergola](https://console.pergola.cloud/) and deploy:
 
@@ -28,7 +28,7 @@ You need a Git repository with your Docusaurus code and:
 🚀 **That's it! Your Docusaurus is live at the URL Pergola has provided.**
 
 Here is a live example:
-https://docusaurus-docusaurus-dev.apps.pergola.cloud/
+https://demo-docusaurus-dev.apps.pergola.cloud/
 
 ## Further read
 
